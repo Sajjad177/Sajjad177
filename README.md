@@ -23,4 +23,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb" /><br>
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
