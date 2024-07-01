@@ -24,4 +24,6 @@ Skills:  REACT/ MongoDB / Express.js / JS / HTML / CSS
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
+![Test](https://img.shields.io/badge/React.js)
+
 
