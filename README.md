@@ -5,28 +5,18 @@
 </h1>
 
 <br/>
+<h2>About Me : </h2>
 <p>I'm a junior Web Developer. I'm very excited to learn a lot and create new thing. I am passionate about learning and sharing my knowledge with others as publicly as possible. As a web developer, I offer a comprehensive range of services tailored to meet the unique needs of each client. I enjoy working with React.js, JavaScript.</p>
 <br/>
- <h2>Talking about Personal Stuff: </h2>
+ <h2>Talking about Personal Stuff : </h2>
 
 - 🔭 I’m currently working on E-commerce project 
 - 🌱 I’m currently learning Next.js 
 - 💬 Ask me about React, Node and javaScript 
 - 📫 How to reach me: sajjadsajjad098765@gmail.com 
-
- <h2>Connect with me: </h2>
- <div align="center"> 
-  <a href="sajjadsajjad098765@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="www.linkedin.com/in/sajjadsajjad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
 <br/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>Skill-Frameworks-Tools :</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
