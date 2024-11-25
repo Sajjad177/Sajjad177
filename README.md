@@ -11,7 +11,7 @@
 <br/>
  <h2>Talking about Personal Stuff : </h2>
 
- - 🔭 I’m currently working on E-commerce project. <br>- 🌱 I’m currently learning TypeScript and Mongoose. <br>- 💬 Ask me about React, Node and JavaScript. <br>- 📫 How to reach me: sajjadhossainx06@gmail.com 
+ - 🔭 I’m currently working on E-commerce project. <br>- 🌱 I’m currently learning GSAP and Three.js. <br>- 💬 Ask me about React, Node and JavaScript. <br>- 📫 How to reach me: sajjadhossainx06@gmail.com 
 
 
 ## 🌐 Connect With me :
