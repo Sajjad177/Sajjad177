@@ -13,7 +13,6 @@
  <h2>Talking about Personal Stuff : </h2>
 
 - 🔭 I’m currently working on an E-commerce project.  
-- 🌱 I’m currently learning GSAP and Three.js.  
 - 💬 Ask me about React, Node, TypeScript, and JavaScript.  
 - 📫 How to reach me: sajjadhossainx06@gmail.com  
 
