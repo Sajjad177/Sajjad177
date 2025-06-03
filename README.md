@@ -1,5 +1,6 @@
-<img src="https://i.pinimg.com/736x/60/e0/f3/60e0f33bb4dbe6a52ca312fc247a0d21.jpg" style="width: 100%; height: 50%;"/>
-
+<p align="center">
+  <img src="https://i.pinimg.com/736x/60/e0/f3/60e0f33bb4dbe6a52ca312fc247a0d21.jpg" width="100%"/>
+</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sajjad+Hossain!;" />
