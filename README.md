@@ -12,7 +12,7 @@
 <br/>
  <h2>Talking about Personal Stuff : </h2>
 
-- 🔭 I’m currently working on an E-Shop project.  
+- 🔭 I’m currently working on an Bd-Calling Limited as a Backend Devloper.  
 - 💬 Ask me about React, Node, TypeScript, and JavaScript.  
 - 📫 How to reach me: sajjadhossainx06@gmail.com  
 
