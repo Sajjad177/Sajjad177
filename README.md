@@ -8,7 +8,7 @@
 
 <br/>
 <h2>About Me : </h2>
-<p>I'm a Full Stack Web Developer. I'm very excited to learn a lot and create new things. I am passionate about learning and sharing my knowledge with others as publicly as possible. As a web developer, I offer a comprehensive range of services tailored to meet the unique needs of each client. I enjoy working with React.js, JavaScript, TypeScript, and building scalable applications using technologies like Node.js, Express, and MongoDB.</p>
+<p>🌐 I’m a Full Stack Web Developer with hands-on experience delivering scalable, efficient, and user-focused applications. Skilled in React.js, JavaScript, and TypeScript on the front end, and Node.js, Express, and MongoDB on the back end, I build complete solutions that align with business goals. Passionate about clean code, performance optimization, and continuous learning, I bring both technical expertise and problem-solving ability to every project.</p>
 <br/>
  <h2>Talking about Personal Stuff : </h2>
 
