@@ -13,6 +13,7 @@
  <h2>Talking about Personal Stuff : </h2>
 
 - 🔭 I’m currently working on an Bd-Calling Limited as a Backend Devloper.  
+- 🔭 I’m currently learning Docker.  
 - 💬 Ask me about React, Node, TypeScript, and JavaScript.  
 - 📫 How to reach me: sajjadhossainx06@gmail.com  
 
