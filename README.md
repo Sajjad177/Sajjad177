@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on an Bd-Calling Limited as a Backend Devloper.  
 - 🔭 I’m currently learning Docker.  
 - 💬 Ask me about React, Node, TypeScript, and JavaScript.  
-- 📫 How to reach me: sajjadhossainx06@gmail.com
+- 📫 How to reach me: sajjadhossainx06@gmail.com.
 
 
 ## 🌐 Connect With me :
