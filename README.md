@@ -10,7 +10,7 @@
 <h2>About Me : </h2>
 <p>🌐 I’m a Full Stack Web Developer with hands-on experience delivering scalable, efficient, and user-focused applications. Skilled in React.js, JavaScript, and TypeScript on the front-end, and Node.js, Express, and MongoDB on the back end, I build complete solutions that align with business goals. Passionate about clean code, performance optimization, and continuous learning, I bring both technical expertise problem-solving and debagging ability to every project.</p>
 <br/>
- <h2>Talking about Personal Stuff : </h2>
+ <h2>Talking about Personal Stuff: </h2>
 
 - 🔭 I’m currently working on an Bd-Calling Limited as a Backend Devloper.  
 - 🔭 I’m currently learning Docker.  
