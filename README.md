@@ -8,7 +8,7 @@
 
 <br/>
 <h2>About Me : </h2>
-<p>🌐 I’m a Full Stack Web Developer with hands-on experience delivering scalable, efficient, and user-focused applications. Skilled in React.js, JavaScript, and TypeScript on the front-end, and Node.js, Express, and MongoDB on the back end, I build complete solutions that align with business goals. Passionate about clean code, performance optimization, and continuous learning, I bring both technical expertise problem-solving and debagging ability to every project.</p>
+<p>🌐 I’m a Full Stack Web Developer with around 1 year of experience working primarily as a backend developer. I’ve been building and maintaining scalable, efficient, and user-focused applications using React.js, JavaScript, and TypeScript on the front end, along with Node.js, Express, and MongoDB on the backend. I focus on writing clean, maintainable code, improving performance, and solving real-world problems through practical engineering. I enjoy debugging complex issues and continuously improving my skills while working on production-level systems.</p>
 <br/>
  <h2>Talking about Personal Stuff: </h2>
 
